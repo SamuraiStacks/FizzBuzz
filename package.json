@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/SamuraiStacks/SamBuzz#readme",
   "bin": {
-    "sambuzz": "node SamBuzz.js"
+    "sambuzz": "bin/SamBuzz.js"
   }
 }

@@ -3,4 +3,4 @@ It's just the Fizz Buzz division game. Replaces any number divisible by three wi
 Numbers divisible by both will become "FizzBuzz".
 
 ## Installation
-1. (Download & install Node.js)[https://nodejs.org/en/download/]
+1. [Download & install Node.js](https://nodejs.org/en/download/)

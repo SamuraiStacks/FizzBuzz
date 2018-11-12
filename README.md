@@ -7,6 +7,7 @@ Numbers divisible by both will become "SamBuzz".
 2. Download this repo and extract it
 3. Open command prompt (Or any terminal)
 4. Go to the directory of where you downloaded Sam Buzz
-5. Run `node SamBuzz.js` or `sambuzz`!
+5. Run npm link (**Only needed if you want to be able to run `sambuzz`**)
+6. Run `node SamBuzz.js` or `sambuzz`!
 
 Now you have downloaded and can use this FizzBuzz code!

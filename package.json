@@ -1,0 +1,22 @@
+{
+  "name": "sambuzz",
+  "version": "1.0.0",
+  "description": "It's just the Fizz Buzz division game. Replaces any number divisible by three with the word \"Sam\", and any number divisible by five with the word \"Buzz\".",
+  "main": "SamBuzz.js",
+  "scripts": {
+    "test": "node Sambuzz.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuraiStacks/SamBuzz.git"
+  },
+  "author": "SamuraiStacks",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SamuraiStacks/SamBuzz/issues"
+  },
+  "homepage": "https://github.com/SamuraiStacks/SamBuzz#readme",
+  "bin": {
+    "sambuzz": "node SamBuzz.js"
+  }
+}
